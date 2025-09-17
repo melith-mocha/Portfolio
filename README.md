@@ -1,1 +1,24 @@
-# Portfolio
+<html>
+<head>
+</head>
+<title>Porfolio</title>
+<body>
+<body bgcolor=#FFF7E6>
+<center>
+
+<font color=Black face=Courier size=20>
+<h1>Code Your Life</h1>
+
+<table border=5 bordercolor=#FFF7E6 cellpadding=10 cellspacing=0> 
+<td><img src=MEL.jpg width=200 height=200>
+<td><center><font color=Black face=Arial size=5>Hi There, I'm a First Year BSCS<br>
+(Bachelor in Science in Computer Science.</center>
+<td><img src=MELV.jpg width=200 height=200>
+</table>
+
+<br>
+<a href=Contents.html><img src=ARROW.jpg width=100 height=100></a>
+</center>
+
+</body>
+</html>
